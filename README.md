@@ -30,6 +30,12 @@ Use with 'watch' command
 
 ## Install
 
+## Update log
+
+2017/10/23 project started.
+
+2020/5/30 uploaded to Github as a backup
+
 ## Contribution
 
 ## Licence
