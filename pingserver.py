@@ -9,7 +9,7 @@ response = os.system("ping -c 1 " + hostname)
 #while True:
 if response == 0:
   time.sleep(3)
-  os.system("mpg123 sounds/beep_07.mp3")
+  os.system("mpg123 sounds/beep-07.mp3")
   print hostname, 'is up!'
 else:
   os.system("mpg123 sounds/beep_down.mp3")
