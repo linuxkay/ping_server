@@ -32,10 +32,11 @@ Use with 'watch' command
 
 ## Update log
 
-2020/5/30 uploaded to Github as a backup
-
 2017/10/23 project started in Fedora26 Desktop environment.
 
+2020/5/30 uploaded to Github as a backup
+
+2022/8/9 Added Mac version.
 
 ## Contribution
 
