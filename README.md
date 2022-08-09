@@ -36,7 +36,7 @@ Use with 'watch' command
 
 2020/5/30 uploaded to Github as a backup
 
-2022/8/9 Added Mac version.
+2022/8/9 Added Mac version. Fixed Loop. Added input for hostname.
 
 ## Contribution
 
