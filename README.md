@@ -20,13 +20,12 @@ python
 
 ## Usage
 
-test
 
-`python pingserver.py`
+`python3 pingserver.py`
 
-Use with 'watch' command
+~~Use with 'watch' command~~
 
-`watch python pingserver.py`
+~~`watch python pingserver.py`~~
 
 ## Install
 
