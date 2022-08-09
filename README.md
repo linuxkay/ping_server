@@ -47,4 +47,4 @@ python
 [linuxkay](https://github.com/linuxkay)
 
 ## Base Code can be found here.
-[stackoverflow:Pinging servers in Python](https://stackoverflow.com/questions/2953462/pinging-servers-in-python)
+[stack overflow: Pinging servers in Python](https://stackoverflow.com/questions/2953462/pinging-servers-in-python)
