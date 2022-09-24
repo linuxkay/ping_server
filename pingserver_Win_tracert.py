@@ -1,6 +1,5 @@
 #!/usr/bin/env/python3
 #This python script is to run tracert on windows if the target host is down.
-# build by ohnuma@
 import time
 import subprocess
 import os
