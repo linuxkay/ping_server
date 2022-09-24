@@ -43,6 +43,8 @@ pip install playsound==1.2.2
 
 2022/9/6 Added Win version. 
 
+2022/9/15 Added pingserver_Win_tracert.py. This script is to run commands if target host is down to track or investigate more than ping.
+
 ## Contribution
 
 ## Licence
