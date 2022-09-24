@@ -29,6 +29,10 @@ python
 
 ## Install
 
+For windows
+
+pip install playsound==1.2.2
+
 ## Update log
 
 2017/10/23 project started in Fedora26 Desktop environment.
@@ -36,6 +40,8 @@ python
 2020/5/30 uploaded to Github as a backup
 
 2022/8/9 Added Mac version. Fixed Loop. Added input for hostname.
+
+2022/9/6 Added Win version. 
 
 ## Contribution
 
